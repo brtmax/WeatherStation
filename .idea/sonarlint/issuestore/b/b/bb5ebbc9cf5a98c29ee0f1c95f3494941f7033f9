@@ -1,0 +1,21 @@
+
+0
+java:S1220""Move this file to a named package.
+Z
+java:S1854
+"DRemove this useless assignment to local variable "heatIndexDisplay".(‹œþñ
+X
+java:S1854	"CRemove this useless assignment to local variable "forecastDisplay".(¤äÚ?
+`
+java:S1854"ERemove this useless assignment to local variable "statisticsDisplay".(ºßÌ°ûÿÿÿÿ
+]
+java:S1854"BRemove this useless assignment to local variable "currentDisplay".(òì…Èùÿÿÿÿ
+N
+java:S1481"3Remove this unused "currentDisplay" local variable.(òì…Èùÿÿÿÿ
+Q
+java:S1481"6Remove this unused "statisticsDisplay" local variable.(ºßÌ°ûÿÿÿÿ
+I
+java:S1481	"4Remove this unused "forecastDisplay" local variable.(¤äÚ?
+K
+java:S1481
+"5Remove this unused "heatIndexDisplay" local variable.(‹œþñ
